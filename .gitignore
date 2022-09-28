@@ -1,0 +1,5 @@
+/Wiki/obj/*
+/Wiki/bin/*
+/WikiTests/obj/*
+/WikiTests/bin/*
+/.idea/*
